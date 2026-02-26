@@ -1,0 +1,10 @@
+^C:\USERS\STUDENT\DESKTOP\BULLET3\BUILD\CMAKEFILES\E0646121D784DBD06D93A1A95C5B3A31\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

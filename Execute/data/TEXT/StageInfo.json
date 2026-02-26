@@ -1,0 +1,650 @@
+[
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/Floor.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 0.0,
+                "y": -20.0,
+                "z": 0.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 90.0,
+                "y": 1.0,
+                "z": 50.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/rack.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 380.0
+            },
+            "Rot": {
+                "w": 0.7071067690849304,
+                "x": 0.0,
+                "y": 0.7071067690849304,
+                "z": -0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/rack.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -60.0,
+                "y": 0.0,
+                "z": 200.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/rack.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -245.0,
+                "y": 0.0,
+                "z": 25.0
+            },
+            "Rot": {
+                "w": 0.7071067690849304,
+                "x": 0.0,
+                "y": 0.7071067690849304,
+                "z": -0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -480.0,
+                "y": 0.0,
+                "z": 300.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 2.0,
+                "y": 10.0,
+                "z": 20.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -600.0,
+                "y": 0.0,
+                "z": -290.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 2.0,
+                "y": 10.0,
+                "z": 20.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/Forklift.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -320.0,
+                "y": 0.0,
+                "z": 430.0
+            },
+            "Rot": {
+                "w": -0.7071067690849304,
+                "x": -1.0677015183091498e-07,
+                "y": 0.7071067690849304,
+                "z": -1.0677015183091498e-07
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/container_lowpolygon.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 320.0,
+                "y": 0.0,
+                "z": -30.0
+            },
+            "Rot": {
+                "w": 0.9410755038261414,
+                "x": 0.0,
+                "y": -0.3381965756416321,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 0.0,
+                "y": -20.0,
+                "z": -500.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 90.0,
+                "y": 15.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -890.0,
+                "y": -20.0,
+                "z": 0.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 15.0,
+                "z": 50.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 890.0,
+                "y": -20.0,
+                "z": -120.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 15.0,
+                "z": 37.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/item01.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -20.0,
+                "y": 0.0,
+                "z": -170.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/item01.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 830.0,
+                "y": 0.0,
+                "z": -440.0
+            },
+            "Rot": {
+                "w": 0.9410755038261414,
+                "x": 0.0,
+                "y": -0.3381965756416321,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/item01.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -700.0,
+                "y": 0.0,
+                "z": 400.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/container_lowpolygon.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 650.0,
+                "y": 0.0,
+                "z": -240.0
+            },
+            "Rot": {
+                "w": 0.9410755038261414,
+                "x": 0.0,
+                "y": 0.3381965756416321,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/rack.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 760.0,
+                "y": 0.0,
+                "z": 200.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/rack.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 520.0,
+                "y": 0.0,
+                "z": 200.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -240.0,
+                "y": 0.0,
+                "z": 200.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 6.0,
+                "y": 10.0,
+                "z": 6.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/rack.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -690.0,
+                "y": 0.0,
+                "z": 250.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/beltconveyor.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 986.3099975585938,
+                "y": 5.0,
+                "z": 375.0
+            },
+            "Rot": {
+                "w": 0.7109120488166809,
+                "x": 5.761329191500408e-10,
+                "y": 0.7032809257507324,
+                "z": 5.761329191500408e-10
+            },
+            "Scale": {
+                "x": 2.0,
+                "y": 1.0,
+                "z": 3.2
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/Floor.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 1100.0,
+                "y": -20.0,
+                "z": 375.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 20.0,
+                "y": 1.0,
+                "z": 12.5
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 890.0,
+                "y": -20.0,
+                "z": -120.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/wall.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": 1090.0,
+                "y": -20.0,
+                "z": 250.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+             },
+            "Scale": {
+                  "x": 21.0,
+                  "y": 15.0,
+                  "z": 1.0
+            }
+        }
+    },
+    {
+        "RigitBody": {
+            "IsStatic": true,
+            "Mass": 100.0
+        },
+        "Assets": {
+            "Path": "data/MODEL/EXITPlate.x"
+        },
+        "Transform": {
+            "Pos": {
+                "x": -750.0,
+                "y": 0.0,
+                "z": -485.0
+            },
+            "Rot": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+            }
+        }
+    }
+]
