@@ -9,7 +9,6 @@
 
 # Precompiled Headers
 *.gch
-*.pch
 
 # Linker files
 *.ilk
@@ -33,7 +32,6 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
